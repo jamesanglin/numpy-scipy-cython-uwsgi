@@ -1,1 +1,1 @@
-# -numpy-scipy-cython-uwsgi
+# numpy-scipy-cython-uwsgi
